@@ -21,7 +21,7 @@
 				
 			//"All-In-One" form block
 	//	if (isset($_POST['Submit'])) {
-			$target_dir = "/htdocs/";
+			$target_dir = "MK419/MK419.github.io";
 			$target_file = $target_dir . basename($_FILES["fileUpload"]["name"]);
 			
 			//Confirm log file
